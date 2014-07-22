@@ -1,0 +1,4 @@
+C:\Users\jg58\Documents\GitHub\SimpleWebServer\Handlers\bin\Debug\Handlers.dll
+C:\Users\jg58\Documents\GitHub\SimpleWebServer\Handlers\bin\Debug\Handlers.pdb
+C:\Users\jg58\Documents\GitHub\SimpleWebServer\Handlers\obj\Debug\Handlers.dll
+C:\Users\jg58\Documents\GitHub\SimpleWebServer\Handlers\obj\Debug\Handlers.pdb

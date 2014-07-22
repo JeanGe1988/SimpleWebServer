@@ -5,7 +5,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApplication21
+namespace SimpleWebServer
 {
     public class Server
     {
@@ -20,6 +20,10 @@ namespace ConsoleApplication21
                 }
                 return current;
             }
+        }
+        static void Main(string[] args)
+        {
+            Server.Current.Start();
         }
         public void Start()
         {

@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication21", "ConsoleApplication21\ConsoleApplication21.csproj", "{7AB1C7A0-B071-4F8D-9377-A2140EC41C2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebServer", "ConsoleApplication21\SimpleWebServer.csproj", "{7AB1C7A0-B071-4F8D-9377-A2140EC41C2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Handlers", "Handlers\Handlers.csproj", "{CF5E5873-F0E1-4F69-B642-A8F640A7CC5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{7AB1C7A0-B071-4F8D-9377-A2140EC41C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AB1C7A0-B071-4F8D-9377-A2140EC41C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB1C7A0-B071-4F8D-9377-A2140EC41C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5E5873-F0E1-4F69-B642-A8F640A7CC5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5E5873-F0E1-4F69-B642-A8F640A7CC5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5E5873-F0E1-4F69-B642-A8F640A7CC5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5E5873-F0E1-4F69-B642-A8F640A7CC5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

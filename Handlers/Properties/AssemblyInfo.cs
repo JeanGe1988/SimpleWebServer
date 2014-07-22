@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SimpleWebServer")]
+[assembly: AssemblyTitle("Handlers")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("37XZ83X")]
-[assembly: AssemblyProduct("SimpleWebServer")]
+[assembly: AssemblyProduct("Handlers")]
 [assembly: AssemblyCopyright("Copyright © 37XZ83X 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("92f2aefc-3dfb-431c-aa73-ac202d0d7fbb")]
+[assembly: Guid("655b41e1-e20e-4f25-b66e-ce3f69bdb7e8")]
 
 // Version information for an assembly consists of the following four values:
 //
